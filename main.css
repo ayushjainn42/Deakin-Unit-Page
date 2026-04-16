@@ -17,6 +17,13 @@ p {
 }
 div {
   background-color: darkcyan;
-  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px;
+}
+
+.logo {
+  height: 60px;
 }
 
