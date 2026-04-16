@@ -16,7 +16,7 @@ p {
   font-family: Arial
 }
 div {
-  background-color: darkcyan;
+  background-color: blue;
   display: flex;
   justify-content: flex-end;
   align-items: center;
