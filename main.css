@@ -15,5 +15,15 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+div {
+  background-color: darkcyan;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px;
+}
 
+.logo {
+  height: 60px;
+}
 
